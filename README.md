@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -24,7 +26,11 @@ Here are some ideas to get you started:
 
 <div><br><br>
   <a href="https://github.com/pedroperegrinaa">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroperegrinaa&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedroperegrinaa&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroperegrinaa&layout=compact&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedroperegrinaa&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true"/>
 </div>
+  
+[![Instagram Badge](https://img.shields.io/badge/@pedroperegrinaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateuspersi/)
+[![Twitter Badge](https://img.shields.io/badge/@pedroperegrinaa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/teuspersi) 
+
  
