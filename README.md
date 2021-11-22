@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedroperegrinaa&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true"/>
 </div>
   
-[![Instagram Badge](https://img.shields.io/badge/@pedroperegrinaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateuspersi/)
-[![Twitter Badge](https://img.shields.io/badge/@pedroperegrinaa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/teuspersi) 
+[![Instagram Badge](https://img.shields.io/badge/@pedroperegrinaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroperegrinaa/)
+[![Twitter Badge](https://img.shields.io/badge/@pedroperegrinaa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pedroperegrinaa) 
 
  
