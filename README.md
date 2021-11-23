@@ -27,6 +27,8 @@ Sempre estou estudando algo novo. Meu foco atual é Flutter, mas vivo de olho na
   
 <br>
   
+<img align="right" width="125" height="125" style="border-radius:50px;" src="gif-fofinho.gif?raw=true" />
+  
 ## Meus contatos :iphone:
 
 <p align="center">
@@ -49,6 +51,8 @@ Sempre estou estudando algo novo. Meu foco atual é Flutter, mas vivo de olho na
   
   <!--   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/pedroperegrinaa?label=pedroperegrinaa&style=social"> -->
 
+ <div>
+  
 ![Snake animation](https://github.com/pedroperegrinaa/pedroperegrinaa/blob/output/github-contribution-grid-snake.svg)
   
 <!--
