@@ -1,3 +1,6 @@
+<img align="right" width="150" height="150" style="border-radius:50px;" src="gif-fofinho.gif?raw=true" />
+
+
 # Oi! ☺
 
 Meu nome é Pedro Peregrina e sou apaixonado por código e arte 🥰
@@ -26,8 +29,6 @@ Sempre estou estudando algo novo. Meu foco atual é Flutter, mas vivo de olho na
 </div>
   
 <br>
-  
-<img align="right" width="150" height="150" style="border-radius:50px;" src="gif-fofinho.gif?raw=true" />
   
 ## Meus contatos :iphone:
 
