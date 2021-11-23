@@ -41,10 +41,9 @@ Sempre estou estudando algo novo. Meu foco atual é Flutter, mas vivo de olho na
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
 </p>
-<br>
   <!--   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/pedroperegrinaa?label=pedroperegrinaa&style=social"> -->
- <div>
 
+  <!--
 <div>
   <a href="https://github.com/pedroperegrinaa">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroperegrinaa&layout=compact&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/>
@@ -52,9 +51,7 @@ Sempre estou estudando algo novo. Meu foco atual é Flutter, mas vivo de olho na
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedroperegrinaa&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true"/>
     <br>
 </div>
-  
-
-   
+  -->
 ![Snake animation](https://github.com/pedroperegrinaa/pedroperegrinaa/blob/output/github-contribution-grid-snake.svg)
   
 <!--
