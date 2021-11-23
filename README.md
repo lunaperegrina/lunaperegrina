@@ -1,4 +1,4 @@
-# Oi! 🤠
+# Oi! ☺
 
 Meu nome é Pedro Peregrina e sou apaixonado por código e arte 🥰
 
@@ -27,23 +27,23 @@ Sempre estou estudando algo novo. Meu foco atual é Flutter, mas vivo de olho na
   
 <br>
   
-<img align="right" width="125" height="125" style="border-radius:50px;" src="gif-fofinho.gif?raw=true" />
+<img align="right" width="150" height="150" style="border-radius:50px;" src="gif-fofinho.gif?raw=true" />
   
 ## Meus contatos :iphone:
 
-<p align="center">
+<p>
     <a href="https://github.com/pedroperegrinaa">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/pedroperegrinaa">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;
     <a href="https://www.linkedin.com/in/pedroperegrinaa">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/pedroperegrinaa/">
     </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.twitter.com/pedroperegrinaa">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.instagram.com/pedroperegrinaa">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
