@@ -30,7 +30,7 @@ Sempre estou estudando algo novo. Meu foco atual é Flutter, mas vivo de olho na
     <br>
 </div>
   
-## Meus contatos :iphone:
+### :iphone: Meus contatos 
   
 <p>
     <a href="https://github.com/pedroperegrinaa">
