@@ -1,4 +1,4 @@
-<img align="right" width="150" height="150" style="border-radius:50px;" src="gif-fofinho.gif?raw=true" />
+<img align="right" width="200" height="200" style="border-radius:50px;" src="gif-fofinho.gif?raw=true" />
 
 
 # Oi! ☺
@@ -22,9 +22,10 @@ Sempre estou estudando algo novo. Meu foco atual é Flutter, mas vivo de olho na
 </div>
 
 <br>
-<div style="align-content: space-between">
+<div>
   <a href="https://github.com/pedroperegrinaa">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroperegrinaa&layout=compact&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedroperegrinaa&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true"/>
 </div>
   
