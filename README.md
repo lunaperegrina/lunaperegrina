@@ -22,7 +22,7 @@ Sempre estou estudando algo novo. Meu foco atual é Flutter, mas vivo de olho na
 </div>
 
 <br>
-<div>
+<div style="align-content: space-between">
   <a href="https://github.com/pedroperegrinaa">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroperegrinaa&layout=compact&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedroperegrinaa&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true"/>
