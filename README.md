@@ -1,6 +1,8 @@
-# Oi! 🥰
+# Oi! 🤠
 
-Meu nome é Pedro Peregrina. Sou apaixonado por codigo e arte, e estou sempre estudando algo novo. Atualmente estou focado em Flutter, mas sempre observando as novidades ~~cof cof novos frameworks JavaScript cof cof~~
+Meu nome é Pedro Peregrina e sou apaixonado por código e arte 🥰
+
+Sempre estou estudando algo novo. Meu foco atual é Flutter, mas vivo de olho nas novidades ~~cof cof novos frameworks JavaScript cof cof~~
 
 ### 🛠 Linguagens e Ferramentas
 
@@ -19,7 +21,9 @@ Meu nome é Pedro Peregrina. Sou apaixonado por codigo e arte, e estou sempre es
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedroperegrinaa&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true"/>
 </div>
 <br>
+![gif-fofinho](https://user-images.githubusercontent.com/57403682/142972713-9ed83768-1537-4e5a-a9bb-3e6ef488fb53.gif)
 
+  
 [![Instagram Badge](https://img.shields.io/badge/@pedroperegrinaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroperegrinaa/)
 [![Twitter Badge](https://img.shields.io/badge/@pedroperegrinaa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pedroperegrinaa)
 
