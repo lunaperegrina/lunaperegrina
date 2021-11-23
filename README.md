@@ -32,7 +32,7 @@ Sempre estou estudando algo novo. Meu foco atual é Flutter, mas vivo de olho na
     <br>
 </div>
 
-  ### 🥅 Minhas outras redes
+  ### 🤳 Minhas outras redes
   
 <p>
     <a href="https://www.linkedin.com/in/pedroperegrinaa">
