@@ -27,8 +27,27 @@ Sempre estou estudando algo novo. Meu foco atual é Flutter, mas vivo de olho na
   
 <br>
   
-[![Instagram Badge](https://img.shields.io/badge/@pedroperegrinaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroperegrinaa/)
-[![Twitter Badge](https://img.shields.io/badge/@pedroperegrinaa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pedroperegrinaa)
+## Meus contatos :iphone:
+
+<p align="center">
+    <a href="https://github.com/pedroperegrinaa">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/pedroperegrinaa">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/pedroperegrinaa">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/pedroperegrinaa/">
+    </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.twitter.com/pedroperegrinaa">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/pedroperegrinaa">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+</p>
+  
+  <!--   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/pedroperegrinaa?label=pedroperegrinaa&style=social"> -->
 
 ![Snake animation](https://github.com/pedroperegrinaa/pedroperegrinaa/blob/output/github-contribution-grid-snake.svg)
 <!--
