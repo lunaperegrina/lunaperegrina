@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 [![Instagram Badge](https://img.shields.io/badge/@pedroperegrinaa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroperegrinaa/)
 [![Twitter Badge](https://img.shields.io/badge/@pedroperegrinaa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pedroperegrinaa) 
 
- 
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yjamfcscvh72bhcjye7nk4fur&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
