@@ -7,9 +7,6 @@ Meu nome é Pedro Peregrina e sou apaixonado por código e arte 🥰
 
 Sempre estou estudando algo novo. Meu foco atual é Flutter, mas vivo de olho nas novidades ~~cof cof novos frameworks JavaScript cof cof~~
 
-Pretendo me desenvolver como dev em T, e atualmente estou experimentando e estudando sobre varias tecnilogias, tanto frontend e UX quanto backend.
-
-
 ### 🛠 Linguagens e Ferramentas
 
 <div style="display: inline_block">
