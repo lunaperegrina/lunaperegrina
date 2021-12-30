@@ -46,7 +46,7 @@ Sempre estou estudando algo novo. Meu foco atual é Flutter, mas vivo de olho na
     </a>
 </p>
   
-![](https://visitor-badge.glitch.me/badge?page_id=pedroperegrinaa.visitor-badge)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=pedroperegrinaa.visitor-badge) -->
   
 <!--   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22jzwwwx7nkecwvesdeg6566y&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) -->
   <!--   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/pedroperegrinaa?label=pedroperegrinaa&style=social"> -->
