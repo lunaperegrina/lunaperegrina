@@ -52,6 +52,9 @@ Sempre estou estudando algo novo. Atualmente estou me aprofundando em NodeJS e F
   </a>
 </p>
   
+  ### Meu Site 🌐
+  [pedroperegrina.com](https://pedroperegrina.com)
+  
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=pedroperegrinaa.visitor-badge) -->
   
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22jzwwwx7nkecwvesdeg6566y&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) -->
