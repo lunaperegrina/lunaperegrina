@@ -1,4 +1,4 @@
-<img align="right" width="175" height="175" style="border-radius:50px;" src="gif-fofinho.gif?raw=true" />
+<!-- <img align="right" width="175" height="175" style="border-radius:50px;" src="gif-fofinho.gif?raw=true" /> -->
 
 # Oi! ☺
 
