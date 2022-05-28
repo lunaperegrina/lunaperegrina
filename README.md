@@ -4,7 +4,7 @@
 
 Meu nome é Pedro Peregrina e sou apaixonado por código e arte 🥰
 
-Sempre estou estudando algo novo. Atualmente estou me aprofundando em NodeJS e Flutter, mas sempre estou de olho nas novidades ~~cof cof novos frameworks JavaScript cof cof~~
+Sempre estou estudando algo novo. Atualmente estou me aprofundando em NodeJS e ReactJS, mas sempre estou de olho em coisas como Rust e Web3 :D
 
 ### 🛠 Linguagens e Ferramentas
 
