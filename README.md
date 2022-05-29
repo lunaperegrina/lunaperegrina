@@ -20,11 +20,14 @@
 
 ## **🧐 About:**
 
-    @@I am a lover of technology and art@@
-    + Living in Porto Seguro, Brazil 🇧🇷 AGUA COCA LATAO AGUA COCA LATAO
-    - 20 years old (that's what they say...)
-    ! NodeJS and ReactJS programmer and always studying some technology
-    # Interested in Rust, Web 3.0 stuff and how cookies are made
+```diff
+@@I am a lover of technology and art@@
+
++ Living in Porto Seguro, Brazil 🇧🇷 AGUA COCA LATAO AGUA COCA LATAO
+- 20 years old (that's what they say...)
+! NodeJS and ReactJS programmer and always studying some technology
+# Interested in Rust, Web 3.0 stuff and how cookies are made
+```
 
 ## 🛠 **My Tools:**
 
@@ -89,3 +92,5 @@
 </table>
 
 ![Snake animation](https://github.com/pedroperegrinaa/pedroperegrinaa/blob/output/github-contribution-grid-snake.svg)
+
+<Estrelas de verdade desafiam a escuridao. Continue tentando voce consegue.>
