@@ -69,4 +69,23 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22jzwwwx7nkecwvesdeg6566y&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <details>
+        <summary>Code Distribution</summary>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroperegrinaa" />
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <details>
+        <summary>Readme Stats</summary>
+        <img src="https://github-readme-stats.vercel.app/api?username=pedroperegrinaa&show_icons=true" />
+      </details>
+    </td>
+  </tr>
+</table>
+
 ![Snake animation](https://github.com/pedroperegrinaa/pedroperegrinaa/blob/output/github-contribution-grid-snake.svg)
