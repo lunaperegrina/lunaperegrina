@@ -18,13 +18,13 @@
   <img src="https://komarev.com/ghpvc/?username=pedroperegrinaa&style=for-the-badge"/>
 </p>
 
-<p align="center">👩‍💻 My name is Pedro Peregrina and I'm love code and art 🎨</p>
-
 ## **🧐 About:**
 
-- Pedro Peregrina, 20 years
-- NodeJS and ReactJS programmer
-- Interested in Rust and Web 3.0 stuff
+    @@I am a lover of technology and art@@
+    + Living in Porto Seguro, Brazil 🇧🇷 AGUA COCA LATAO AGUA COCA LATAO
+    - 20 years old (that's what they say...)
+    ! NodeJS and ReactJS programmer and always studying some technology
+    # Interested in Rust, Web 3.0 stuff and how cookies are made
 
 ## 🛠 **My Tools:**
 
