@@ -4,18 +4,18 @@
 
 <p align="center">
   <a target="_blank" href="https://twitter.com/pedroperegrinaa">
-    <img src="https://img.shields.io/badge/Twitter-307cc5?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-307cc5?style=for-the-badge&logo=twitter&logoColor=white&color=1D9BF0"/>
   </a>  
   <a target="_blank" href="https://www.linkedin.com/in/pedroperegrinaa">
-    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=004182"/>
   </a>
   <a target="_blank" href="https://pedroperegrina.com">
-    <img src="https://img.shields.io/badge/-website-307cc5?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-website-307cc5?style=for-the-badge&logo=google-chrome&logoColor=white&color=B700FF"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pedroperegrinaa&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=pedroperegrinaa&style=for-the-badge&color=32325D"/>
 </p>
 
 ## **🧐 About:**
