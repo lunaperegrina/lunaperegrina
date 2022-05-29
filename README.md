@@ -65,12 +65,17 @@
 
 ## 🤳 **I'm in:**
 
-<a href="https://www.linkedin.com/in/pedroperegrinaa"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/pedroperegrinaa/"></a>
-<a href="https://www.instagram.com/pedroperegrinaa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://twitter.com/pedroperegrinaa"><img alt="twitter" src="https://img.shields.io/twitter/follow/pedroperegrinaa?color=1DA1F2&logo=twitter&style=for-the-badge&label=twitter" /></a>
-<a href="https://github/pedroperegrinaa"><img alt="twitter" src="https://img.shields.io/github/followers/pedroperegrinaa?color=181717&logo=github&style=for-the-badge&label=github" /></a>
+<div>
+<a align="center" href="https://www.linkedin.com/in/pedroperegrinaa"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/pedroperegrinaa/"></a>
+<a align="center" href="https://www.instagram.com/pedroperegrinaa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a align="center" href="https://twitter.com/pedroperegrinaa"><img alt="twitter" src="https://img.shields.io/twitter/follow/pedroperegrinaa?color=1DA1F2&logo=twitter&style=for-the-badge&label=twitter" /></a>
+<a align="center" href="https://github/pedroperegrinaa"><img alt="twitter" src="https://img.shields.io/github/followers/pedroperegrinaa?color=181717&logo=github&style=for-the-badge&label=github" /></a>
+<div>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22jzwwwx7nkecwvesdeg6566y&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+</div>
 
 <table align="center">
   <tr>
@@ -93,4 +98,4 @@
 
 ![Snake animation](https://github.com/pedroperegrinaa/pedroperegrinaa/blob/output/github-contribution-grid-snake.svg)
 
-<Estrelas de verdade desafiam a escuridao. Continue tentando voce consegue.>
+<Estrelas de verdade desafiam a escuridao. Continue tentando. Voce consegue.>
