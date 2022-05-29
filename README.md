@@ -1,8 +1,7 @@
 <p align="center">
   <img src="./assets/hello.gif" />
 </p>
-<hr>
-<br>
+
 <p align="center">
     <a href="https://twitter.com/pedroperegrinaa">
     <img src="https://img.shields.io/badge/Twitter-307cc5?style=for-the-badge&logo=twitter&logoColor=white"/>
@@ -59,8 +58,6 @@
   <img align="center" alt="bootstrap" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 
 </div> -->
-
-<br>
 
 ## 🤳 **I'm in:**
 
