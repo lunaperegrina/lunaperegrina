@@ -4,7 +4,9 @@
 
 <p align="center">
   <a target="_blank" href="https://twitter.com/pedroperegrinaa">
-    <img src="https://img.shields.io/badge/Twitter-307cc5?style=for-the-badge&logo=twitter&logoColor=white&color=1D9BF0"/>
+    <img src="https://img.shields.io/twitter/follow/pedroperegrinaa?color=1DA1F2&logo=twitter&style=for-the-badge&label=twitter"/>
+  </a>
+  <a target="_blank" href="https://www.instagram.com/pedroperegrinaa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>  
   <a target="_blank" href="https://www.linkedin.com/in/pedroperegrinaa">
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=004182"/>
@@ -14,14 +16,15 @@
   </a>
 </p>
 
-<p align="center">
+<div align="center">
+<a href="https://github/pedroperegrinaa"><img alt="twitter" src="https://img.shields.io/github/followers/pedroperegrinaa?color=181717&logo=github&style=for-the-badge&label=github" /></a>
   <img src="https://komarev.com/ghpvc/?username=pedroperegrinaa&style=for-the-badge&color=32325D"/>
-</p>
+</div>
 
 ## **🧐 About:**
 
 ```diff
-@@I am a lover of technology and art@@
+@@I'm a lover of technology and art@@
 
 + Living in Porto Seguro, Brazil 🇧🇷 AGUA COCA LATAO AGUA COCA LATAO
 - 20 years old (that's what they say...)
@@ -49,32 +52,10 @@
 ![Figma](https://img.shields.io/badge/figma-C.svg?style=for-the-badge&logo=figma&color=fff)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<!-- <div style="display: inline_block">
-
-  <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-  <img align="center" alt="reactjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="node.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="bootstrap" height="30" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-
-</div> -->
-
-## 🤳 **I'm in:**
-
-<div>
-<a align="center" href="https://www.linkedin.com/in/pedroperegrinaa"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/pedroperegrinaa/"></a>
-<a align="center" href="https://www.instagram.com/pedroperegrinaa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a align="center" href="https://twitter.com/pedroperegrinaa"><img alt="twitter" src="https://img.shields.io/twitter/follow/pedroperegrinaa?color=1DA1F2&logo=twitter&style=for-the-badge&label=twitter" /></a>
-<a align="center" href="https://github/pedroperegrinaa"><img alt="twitter" src="https://img.shields.io/github/followers/pedroperegrinaa?color=181717&logo=github&style=for-the-badge&label=github" /></a>
-<div>
+<div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22jzwwwx7nkecwvesdeg6566y&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-</div>
 </div>
 
 <table align="center">
