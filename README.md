@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/pedroperegrinaa/">
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-  <a href="https://pedroperegrinaa">
+  <a href="https://pedroperegrina.com">
     <img src="https://img.shields.io/badge/-website-307cc5?style=for-the-badge&logo=google-chrome&logoColor=white"/>
     </a>
 </p>
