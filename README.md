@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-    <a href="https://twitter.com/pedroperegrinaa">
+    <a target="_blank" href="https://twitter.com/pedroperegrinaa">
     <img src="https://img.shields.io/badge/Twitter-307cc5?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/pedroperegrinaa/">
+    <a target="_blank" href="https://www.linkedin.com/in/pedroperegrinaa/">
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-  <a href="https://pedroperegrina.com">
+  <a target="_blank" href="https://pedroperegrina.com">
     <img src="https://img.shields.io/badge/-website-307cc5?style=for-the-badge&logo=google-chrome&logoColor=white"/>
     </a>
 </p>
