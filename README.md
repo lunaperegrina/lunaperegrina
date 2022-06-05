@@ -61,6 +61,12 @@
 
 </div>
 
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=pedroperegrinaa&theme=neon-dark" />
+</div>
+
+<br>
+
 <table align="center">
   <tr>
     <td valign="top" width="50%">
