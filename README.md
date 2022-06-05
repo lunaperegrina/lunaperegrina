@@ -68,7 +68,9 @@
     <td valign="top" width="50%">
       <details>
         <summary>Code Distribution</summary>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroperegrinaa" />
+        <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroperegrinaa&layout=compact&theme=radical" />
+        </div>
       </details>
     </td>
   </tr>
@@ -76,7 +78,7 @@
     <td valign="top" width="50%">
       <details>
         <summary>Readme Stats</summary>
-        <img src="https://github-readme-stats.vercel.app/api?username=pedroperegrinaa&show_icons=true" />
+        <img src="https://github-readme-stats.vercel.app/api?username=pedroperegrinaa&show_icons=true&theme=radical" />
       </details>
     </td>
   </tr>
