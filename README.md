@@ -56,12 +56,8 @@
 ![neovim](https://img.shields.io/badge/neovim-%23430098.svg?style=for-the-badge&logo=neovim&color=0B151B)
 
 <div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22jzwwwx7nkecwvesdeg6566y&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
-<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=22jzwwwx7nkecwvesdeg6566y&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
+  <br>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=pedroperegrinaa&theme=neon-dark" />
 </div>
 
