@@ -14,6 +14,9 @@
   <a target="_blank" href="https://pedroperegrina.com">
     <img src="https://img.shields.io/badge/-website-307cc5?style=for-the-badge&logo=google-chrome&logoColor=white&color=B700FF"/>
   </a>
+    <a target="_blank" href="https://pedroperegrina.com/curriculo.html">
+    <img src="https://img.shields.io/badge/curriculum-c?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=BD0807"/>
+  </a>
 </p>
 
 <div align="center">
