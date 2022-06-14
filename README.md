@@ -37,28 +37,35 @@
 
 ## 🛠 **My Tools:**
 
+<div align="center">
+  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF&color=2F74C0)
 ![ReactJS](https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34)
+![Dart](https://img.shields.io/badge/dart-C.svg?style=for-the-badge&logo=dart&color=152030)
+![Flutter](https://img.shields.io/badge/flutter-C.svg?style=for-the-badge&logo=flutter&color=0468D7)
+
+![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF&color=2F74C0)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![npm](https://img.shields.io/badge/npm-6DA55F?style=for-the-badge&logo=npm&logoColor=white&color=000)
-![yarn](https://img.shields.io/badge/yarn-6DA55F?style=for-the-badge&logo=yarn&logoColor=white&color=2188B6)
-![pnpm](https://img.shields.io/badge/pnpm-6DA55F?style=for-the-badge&logo=pnpm&logoColor=white&color=F69220)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=000&color=FF0)
 ![Docker](https://img.shields.io/badge/docker-%23430098.svg?style=for-the-badge&logo=docker&logoColor=white&color=003F8C)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-C.svg?style=for-the-badge&logo=dart&color=152030)
-![Flutter](https://img.shields.io/badge/flutter-C.svg?style=for-the-badge&logo=flutter&color=0468D7)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/npm-6DA55F?style=for-the-badge&logo=npm&logoColor=white&color=000)
+![yarn](https://img.shields.io/badge/yarn-6DA55F?style=for-the-badge&logo=yarn&logoColor=white&color=2188B6)
+![pnpm](https://img.shields.io/badge/pnpm-6DA55F?style=for-the-badge&logo=pnpm&logoColor=white&color=F69220)
 ![Markdown](https://img.shields.io/badge/markdown-C.svg?style=for-the-badge&logo=markdown&color=000)
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![neovim](https://img.shields.io/badge/neovim-%23430098.svg?style=for-the-badge&logo=neovim&color=0B151B)
+  
 ![Blender](https://img.shields.io/badge/blender-%23E34F26.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-C.svg?style=for-the-badge&logo=figma&color=fff)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![neovim](https://img.shields.io/badge/neovim-%23430098.svg?style=for-the-badge&logo=neovim&color=0B151B)
+</div>
 
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=22jzwwwx7nkecwvesdeg6566y&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
