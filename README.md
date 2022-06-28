@@ -31,7 +31,7 @@
 
 + Living in Porto Seguro, Brazil 🇧🇷 AGUA COCA LATAO AGUA COCA LATAO
 - 20 years old (that's what they say...)
-! NodeJS and ReactJS programmer and always studying some technology
+! NodeJS and React programmer and always studying some technology
 # Interested in Rust, Web 3.0 stuff and how cookies are made
 ```
 
