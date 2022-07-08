@@ -55,8 +55,6 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-6DA55F?style=for-the-badge&logo=npm&logoColor=white&color=000)
-![yarn](https://img.shields.io/badge/yarn-6DA55F?style=for-the-badge&logo=yarn&logoColor=white&color=2188B6)
-![pnpm](https://img.shields.io/badge/pnpm-6DA55F?style=for-the-badge&logo=pnpm&logoColor=white&color=F69220)
 ![Markdown](https://img.shields.io/badge/markdown-C.svg?style=for-the-badge&logo=markdown&color=000)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
