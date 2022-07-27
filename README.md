@@ -45,6 +45,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![ReactJS](https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34)
 ![Storybook](https://img.shields.io/badge/storybook-C.svg?style=for-the-badge&logo=storybook&color=FF4785&logoColor=white)
+![11ty](https://img.shields.io/badge/11ty-C.svg?style=for-the-badge&logo=eleventy&color=000000&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-C.svg?style=for-the-badge&logo=dart&color=152030)
 ![Flutter](https://img.shields.io/badge/flutter-C.svg?style=for-the-badge&logo=flutter&color=0468D7)
 
