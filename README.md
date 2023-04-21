@@ -49,6 +49,8 @@
 ![Dart](https://img.shields.io/badge/dart-C.svg?style=for-the-badge&logo=dart&color=152030)
 ![Flutter](https://img.shields.io/badge/flutter-C.svg?style=for-the-badge&logo=flutter&color=0468D7)
 
+![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=FFDB4F&color=1F4361) 
+![PHP](https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php&logoColor=FFFFFF&color=7A86B8)
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF&color=2F74C0)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=fff&color=735902)
