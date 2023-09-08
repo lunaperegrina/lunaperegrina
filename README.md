@@ -77,9 +77,9 @@
 
 <br>
 
-## 🛠 **My Threads on Twitter (PT-BR only):**
+## 🐦 **My Threads on Twitter (PT-BR only):**
 
-### Estudos
+### 📚 Estudos
 - [Iniciando na programação](https://twitter.com/pedroperegrinaa/status/1665504513690574848?s=20)
 - [Recomendações de cursos](https://twitter.com/pedroperegrinaa/status/1675112024081301504?s=20)
 - [Recomendações de cursos (parte 2)](https://twitter.com/pedroperegrinaa/status/1679460702074052608?s=20)
@@ -90,7 +90,7 @@
 - [Ideias para programar](https://twitter.com/pedroperegrinaa/status/1666597975651500032?s=20)
 - [Minhas fases de estudo na programação](https://twitter.com/pedroperegrinaa/status/1656653835539214340?s=20)
 
-### Curiosidades
+### ✨ Curiosidades
 
 - [Uma faixa com SQL na frente de um carro?](https://twitter.com/pedroperegrinaa/status/1673662485717458946?s=20)
 - [E essa AWS US-East 1 que anda carregando a internet nas costas, ein?](https://twitter.com/pedroperegrinaa/status/1672725525058686976?s=20)
