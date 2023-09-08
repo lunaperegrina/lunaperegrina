@@ -24,7 +24,7 @@
   <img src="https://komarev.com/ghpvc/?username=pedroperegrinaa&style=for-the-badge&color=32325D"/>
 </div>
 
-## **🧐 About:**
+### **🧐 About:**
 
 ```diff
 @@I'm a lover of technology and art@@
@@ -35,7 +35,7 @@
 # Interested in Java, Ruby, Rust stuff and how cookies are made
 ```
 
-## 🛠 **My Tools:**
+### 🛠 **My Tools:**
 
 <div align="center">
   
@@ -71,16 +71,34 @@
 
 <div align="center">
 <!--   <img src="https://spotify-github-profile.vercel.app/api/view?uid=22jzwwwx7nkecwvesdeg6566y&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" /> -->
-  <br>
 <!--   <img src="http://github-readme-streak-stats.herokuapp.com?user=pedroperegrinaa&theme=neon-dark&hide_border=true&background=DD272700" /> -->
 </div>
 
-<br>
+### 🐦 **My Threads on Twitter (PT-BR only):**
 
-## 🐦 **My Threads on Twitter (PT-BR only):**
+#### 📚 Estudos
 
-<table align="center">
-  <tr>
+- [Iniciando na programação](https://twitter.com/pedroperegrinaa/status/1665504513690574848?s=20)
+- [Recomendações de cursos](https://twitter.com/pedroperegrinaa/status/1675112024081301504?s=20)
+- [Recomendações de cursos (parte 2)](https://twitter.com/pedroperegrinaa/status/1679460702074052608?s=20)
+- [Recomendações de livros](https://twitter.com/pedroperegrinaa/status/1682829935662997506?s=20)
+- [Você não precisa gastar 30 mil em um curso](https://twitter.com/pedroperegrinaa/status/1532550122491584514?s=20)
+- [Meu método de estudo](https://twitter.com/pedroperegrinaa/status/1669020514587738114?s=20)
+- [Dicas para conseguir vaga de emprego](https://twitter.com/pedroperegrinaa/status/1680910319517048833?s=20)
+- [Ideias para programar](https://twitter.com/pedroperegrinaa/status/1666597975651500032?s=20)
+- [Minhas fases de estudo na programação](https://twitter.com/pedroperegrinaa/status/1656653835539214340?s=20)
+
+#### ✨ Curiosidades
+
+- [Uma faixa com SQL na frente de um carro?](https://twitter.com/pedroperegrinaa/status/1673662485717458946?s=20)
+- [E essa AWS US-East 1 que anda carregando a internet nas costas, ein?](https://twitter.com/pedroperegrinaa/status/1672725525058686976?s=20)
+- [Suas senhas são horríveis](https://twitter.com/pedroperegrinaa/status/1681635077296644096?s=20)
+- [O básico sobre IA e Stable Diffusion](https://twitter.com/pedroperegrinaa/status/1691057148145602560?s=20)
+- [Por que usaram um joystick para controlar um submarino?](https://twitter.com/pedroperegrinaa/status/1673138577977528321?s=20)
+- [O garoto de 15 anos que hackeou a NASA](https://twitter.com/pedroperegrinaa/status/1686346122091220992?s=20)
+
+<table>
+<!--   <tr>
     <td valign="top" width="50%">
       <details>
         <summary>📚 Estudos</summary>
@@ -112,31 +130,12 @@
 </ul>
       </details>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
-### 📚 Estudos
-- [Iniciando na programação](https://twitter.com/pedroperegrinaa/status/1665504513690574848?s=20)
-- [Recomendações de cursos](https://twitter.com/pedroperegrinaa/status/1675112024081301504?s=20)
-- [Recomendações de cursos (parte 2)](https://twitter.com/pedroperegrinaa/status/1679460702074052608?s=20)
-- [Recomendações de livros](https://twitter.com/pedroperegrinaa/status/1682829935662997506?s=20)
-- [Você não precisa gastar 30 mil em um curso](https://twitter.com/pedroperegrinaa/status/1532550122491584514?s=20)
-- [Meu método de estudo](https://twitter.com/pedroperegrinaa/status/1669020514587738114?s=20)
-- [Dicas para conseguir vaga de emprego](https://twitter.com/pedroperegrinaa/status/1680910319517048833?s=20)
-- [Ideias para programar](https://twitter.com/pedroperegrinaa/status/1666597975651500032?s=20)
-- [Minhas fases de estudo na programação](https://twitter.com/pedroperegrinaa/status/1656653835539214340?s=20)
-
-### ✨ Curiosidades
-
-- [Uma faixa com SQL na frente de um carro?](https://twitter.com/pedroperegrinaa/status/1673662485717458946?s=20)
-- [E essa AWS US-East 1 que anda carregando a internet nas costas, ein?](https://twitter.com/pedroperegrinaa/status/1672725525058686976?s=20)
-- [Suas senhas são horríveis](https://twitter.com/pedroperegrinaa/status/1681635077296644096?s=20)
-- [O básico sobre IA e Stable Diffusion](https://twitter.com/pedroperegrinaa/status/1691057148145602560?s=20)
-- [Por que usaram um joystick para controlar um submarino?](https://twitter.com/pedroperegrinaa/status/1673138577977528321?s=20)
-- [O garoto de 15 anos que hackeou a NASA](https://twitter.com/pedroperegrinaa/status/1686346122091220992?s=20)
 
 <table align="center">
-  <tr>
+<!--   <tr>
     <td valign="top" width="50%">
       <details>
         <summary>Code Distribution</summary>
@@ -153,7 +152,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=pedroperegrinaa&show_icons=true&theme=radical" />
       </details>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 <Estrelas de verdade desafiam a escuridao. Continue tentando. Voce consegue.>
