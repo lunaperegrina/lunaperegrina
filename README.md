@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://twitter.com/pedroperegrinaa">
+<!--   <a target="_blank" href="https://twitter.com/pedroperegrinaa">
     <img src="https://img.shields.io/twitter/follow/pedroperegrinaa?color=1DA1F2&logo=twitter&style=for-the-badge&label=twitter"/>
-  </a>
+  </a> -->
   <a target="_blank" href="https://www.instagram.com/pedroperegrinaa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>  
   <a target="_blank" href="https://www.linkedin.com/in/pedroperegrinaa">
@@ -30,9 +30,9 @@
 @@I'm a lover of technology and art@@
 
 + Living in Porto Seguro, Brazil 🇧🇷 AGUA COCA LATAO AGUA COCA LATAO
-- 21 years old (that's what they say...)
+- 22 years old (that's what they say...)
 ! NodeJS and React programmer and always studying some technology
-# Interested in Java, Ruby, Rust stuff and how cookies are made
+# Interested in JavaScript, WebAssembly, Rust stuff and how cookies are made
 ```
 
 ### 🛠 **My Tools:**
@@ -43,9 +43,11 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-0F172A?logo=tailwindcss&style=for-the-badge&logoColor=white)
+![Shadcnui](https://img.shields.io/badge/shadcn-000000?style=for-the-badge&logo=shadcnui)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![ReactJS](https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![AntDesign](https://img.shields.io/badge/AntDesign-3F96FF?style=for-the-badge&logo=antdesign)
 ![Storybook](https://img.shields.io/badge/storybook-C.svg?style=for-the-badge&logo=storybook&color=FF4785&logoColor=white)
 ![11ty](https://img.shields.io/badge/11ty-C.svg?style=for-the-badge&logo=eleventy&color=000000&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-C.svg?style=for-the-badge&logo=dart&color=152030)
