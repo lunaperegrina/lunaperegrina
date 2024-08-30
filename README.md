@@ -1,6 +1,6 @@
-<p align="center">
+ <!--  <p align="center">
   <img src="./assets/hello.gif" />
-</p>
+</p> -->
 
 <p align="center">
 <!--   <a target="_blank" href="https://twitter.com/pedroperegrinaa">
