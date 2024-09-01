@@ -6,22 +6,22 @@
 <!--   <a target="_blank" href="https://twitter.com/pedroperegrinaa">
     <img src="https://img.shields.io/twitter/follow/pedroperegrinaa?color=1DA1F2&logo=twitter&style=for-the-badge&label=twitter"/>
   </a> -->
-  <a target="_blank" href="https://www.instagram.com/pedroperegrinaa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a target="_blank" href="https://www.instagram.com/eitacomoperegrina"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>  
-  <a target="_blank" href="https://www.linkedin.com/in/pedroperegrinaa">
+  <a target="_blank" href="https://www.linkedin.com/in/lunaperegrina">
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=004182"/>
   </a>
-  <a target="_blank" href="https://pedroperegrina.com">
+  <a target="_blank" href="https://lunaperegrina.dev">
     <img src="https://img.shields.io/badge/-website-307cc5?style=for-the-badge&logo=google-chrome&logoColor=white&color=B700FF"/>
   </a>
-    <a target="_blank" href="https://pedroperegrina.com/cv">
+    <a target="_blank" href="https://lunaperegrina.dev/cv">
     <img src="https://img.shields.io/badge/curriculum-c?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&color=BD0807"/>
   </a>
 </p>
 
 <div align="center">
-<a href="https://github/pedroperegrinaa"><img alt="twitter" src="https://img.shields.io/github/followers/pedroperegrinaa?color=181717&logo=github&style=for-the-badge&label=github" /></a>
-  <img src="https://komarev.com/ghpvc/?username=pedroperegrinaa&style=for-the-badge&color=32325D"/>
+<a href="https://github/lunaperegrina"><img alt="twitter" src="https://img.shields.io/github/followers/lunaperegrina?color=181717&logo=github&style=for-the-badge&label=github" /></a>
+  <img src="https://komarev.com/ghpvc/?username=lunaperegrina&style=for-the-badge&color=32325D"/>
 </div>
 
 ### **🧐 About:**
