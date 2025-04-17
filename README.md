@@ -3,9 +3,6 @@
 </p> -->
 
 <p align="center">
-<!--   <a target="_blank" href="https://twitter.com/pedroperegrinaa">
-    <img src="https://img.shields.io/twitter/follow/pedroperegrinaa?color=1DA1F2&logo=twitter&style=for-the-badge&label=twitter"/>
-  </a> -->
   <a target="_blank" href="https://www.instagram.com/eitacomoperegrina"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>  
   <a target="_blank" href="https://www.linkedin.com/in/lunaperegrina">
@@ -74,11 +71,6 @@
 ![Figma](https://img.shields.io/badge/figma-C.svg?style=for-the-badge&logo=figma&color=fff)
 </div>
 
-<div align="center">
-<!--   <img src="https://spotify-github-profile.vercel.app/api/view?uid=22jzwwwx7nkecwvesdeg6566y&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" /> -->
-<!--   <img src="http://github-readme-streak-stats.herokuapp.com?user=pedroperegrinaa&theme=neon-dark&hide_border=true&background=DD272700" /> -->
-</div>
-
 ### 🐦 **My Threads on Twitter (PT-BR only):**
 
 <table>
@@ -87,15 +79,15 @@
       <details>
         <summary>📚 Estudos</summary>
           <ul>
-  <li><a href="https://twitter.com/pedroperegrinaa/status/1665504513690574848?s=20">Iniciando na programação</a></li>
-  <li><a href="https://twitter.com/pedroperegrinaa/status/1675112024081301504?s=20">Recomendações de cursos</a></li>
-  <li><a href="https://twitter.com/pedroperegrinaa/status/1679460702074052608?s=20">Recomendações de cursos (parte 2)</a></li>
-  <li><a href="https://twitter.com/pedroperegrinaa/status/1682829935662997506?s=20">Recomendações de livros</a></li>
-  <li><a href="https://twitter.com/pedroperegrinaa/status/1532550122491584514?s=20">Você não precisa gastar 30 mil em um curso</a></li>
-  <li><a href="https://twitter.com/pedroperegrinaa/status/1669020514587738114?s=20">Meu método de estudo</a></li>
-  <li><a href="https://twitter.com/pedroperegrinaa/status/1680910319517048833?s=20">Dicas para conseguir vaga de emprego</a></li>
-  <li><a href="https://twitter.com/pedroperegrinaa/status/1666597975651500032?s=20">Ideias para programar</a></li>
-  <li><a href="https://twitter.com/pedroperegrinaa/status/1656653835539214340?s=20">Minhas fases de estudo na programação</a></li>
+  <li><a href="https://twitter.com/lunaperegrinaa/status/1665504513690574848?s=20">Iniciando na programação</a></li>
+  <li><a href="https://twitter.com/lunaperegrinaa/status/1675112024081301504?s=20">Recomendações de cursos</a></li>
+  <li><a href="https://twitter.com/lunaperegrinaa/status/1679460702074052608?s=20">Recomendações de cursos (parte 2)</a></li>
+  <li><a href="https://twitter.com/lunaperegrinaa/status/1682829935662997506?s=20">Recomendações de livros</a></li>
+  <li><a href="https://twitter.com/lunaperegrinaa/status/1532550122491584514?s=20">Você não precisa gastar 30 mil em um curso</a></li>
+  <li><a href="https://twitter.com/lunaperegrinaa/status/1669020514587738114?s=20">Meu método de estudo</a></li>
+  <li><a href="https://twitter.com/lunaperegrinaa/status/1680910319517048833?s=20">Dicas para conseguir vaga de emprego</a></li>
+  <li><a href="https://twitter.com/lunaperegrinaa/status/1666597975651500032?s=20">Ideias para programar</a></li>
+  <li><a href="https://twitter.com/lunaperegrinaa/status/1656653835539214340?s=20">Minhas fases de estudo na programação</a></li>
 </ul>
       </details>
     </td>
@@ -105,38 +97,16 @@
       <details>
         <summary>✨ Curiosidades</summary>
         <ul>
-  <li><a href="https://twitter.com/pedroperegrinaa/status/1673662485717458946?s=20">Uma faixa com SQL na frente de um carro?</a></li>
-  <li><a href="https://twitter.com/pedroperegrinaa/status/1672725525058686976?s=20">E essa AWS US-East 1 que anda carregando a internet nas costas, ein?</a></li>
-  <li><a href="https://twitter.com/pedroperegrinaa/status/1681635077296644096?s=20">Suas senhas são horríveis</a></li>
-  <li><a href="https://twitter.com/pedroperegrinaa/status/1691057148145602560?s=20">O básico sobre IA e Stable Diffusion</a></li>
-  <li><a href="https://twitter.com/pedroperegrinaa/status/1673138577977528321?s=20">Por que usaram um joystick para controlar um submarino?</a></li>
-  <li><a href="https://twitter.com/pedroperegrinaa/status/1686346122091220992?s=20">O garoto de 15 anos que hackeou a NASA</a></li>
+  <li><a href="https://twitter.com/lunaperegrinaa/status/1673662485717458946?s=20">Uma faixa com SQL na frente de um carro?</a></li>
+  <li><a href="https://twitter.com/lunaperegrinaa/status/1672725525058686976?s=20">E essa AWS US-East 1 que anda carregando a internet nas costas, ein?</a></li>
+  <li><a href="https://twitter.com/lunaperegrinaa/status/1681635077296644096?s=20">Suas senhas são horríveis</a></li>
+  <li><a href="https://twitter.com/lunaperegrinaa/status/1691057148145602560?s=20">O básico sobre IA e Stable Diffusion</a></li>
+  <li><a href="https://twitter.com/lunaperegrinaa/status/1673138577977528321?s=20">Por que usaram um joystick para controlar um submarino?</a></li>
+  <li><a href="https://twitter.com/lunaperegrinaa/status/1686346122091220992?s=20">O garoto de 15 anos que hackeou a NASA</a></li>
 </ul>
       </details>
     </td>
-  </tr>
-</table>
-
-
-<table align="center">
-<!--   <tr>
-    <td valign="top" width="50%">
-      <details>
-        <summary>Code Distribution</summary>
-        <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedroperegrinaa&layout=compact&theme=radical" />
-        </div>
-      </details>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <details>
-        <summary>Readme Stats</summary>
-        <img src="https://github-readme-stats.vercel.app/api?username=pedroperegrinaa&show_icons=true&theme=radical" />
-      </details>
-    </td>
-  </tr> -->
+  </tr>Ï
 </table>
 
 <Estrelas de verdade desafiam a escuridao. Continue tentando. Voce consegue.>
