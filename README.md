@@ -1,6 +1,6 @@
  <!--  <p align="center">
   <img src="./assets/hello.gif" />
-</p> -->
+</p>
 
 <p align="center">
   <a target="_blank" href="https://www.instagram.com/eitacomoperegrina"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -20,7 +20,7 @@
 <a href="https://github/lunaperegrina"><img alt="twitter" src="https://img.shields.io/github/followers/lunaperegrina?color=181717&logo=github&style=for-the-badge&label=github" /></a>
   <img src="https://komarev.com/ghpvc/?username=lunaperegrina&style=for-the-badge&color=32325D"/>
 </div>
-
+ -->
 ### **🧐 About:**
 
 ```diff
